@@ -39,10 +39,10 @@ def Task4 ():
         lon = place.get('lon')
         if lat is None or lon is None:
             verified = False
-            print(f"Task4: {place['name']}, {verified} \n")  # This will print a message if the coordinates are None            
+            print(f"{place['name']}, {verified} \n")  # This will print a message if the coordinates are None            
         else:
             verified = True
-            print(f"Task4: {place['name']}, {verified} \n")  # This will print the details of each place
+            print(f"{place['name']}, {verified} \n")  # This will print the details of each place
     return 0
 
 Task4()
