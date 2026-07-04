@@ -17,5 +17,3 @@ Runs through 6 tasks demonstrating:
 ```bash
 uv run main.py
 ```
-
-## Example output
