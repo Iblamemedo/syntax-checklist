@@ -17,3 +17,14 @@ Runs through 6 tasks demonstrating:
 ```bash
 uv run main.py
 ```
+## Example output
+Task1: Giza
+Task3: Here are some places in Egypt:
+Khan El-Khalili does not have valid coordinates.
+Task5: Checking for missing keys in places:
+Missing key in {'name': 'Khan El-Khalili', 'lat': 30.0444, 'type': 'market'}
+
+## Requirements
+
+- Python 3.14+
+- uv
