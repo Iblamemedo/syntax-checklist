@@ -66,9 +66,9 @@ Task5()
 
 data = {
         'elements': [
-            {'name': 'empire state building', 'location': {'lat': 40.748817, 'lon': -73.985428}, 'type': 'landmark'},
-            {'name': 'statue of liberty', 'location': {'lat': 40.689247, 'lon': -74.044502}, 'type': 'landmark'},
-            {'name': 'central park', 'location': {'lat': 40.785091, 'lon': -73.968285}, 'type': 'park'}
+            {'name': 'empire state building', 'location': {'lat': 40.7488, 'lon': -73.9854}, 'type': 'landmark'},
+            {'name': 'statue of liberty', 'location': {'lat': 40.6892, 'lon': -74.0445}, 'type': 'landmark'},
+            {'name': 'central park', 'location': {'lat': 40.7850, 'lon': -73.9682}, 'type': 'park'}
         ]
 }
 def Task6 ():
